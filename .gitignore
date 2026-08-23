@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Local vector database and Python cache
+chroma_db/
+__pycache__/
+*.py[cod]
+
+# Streamlit local configuration
+.streamlit/secrets.toml
